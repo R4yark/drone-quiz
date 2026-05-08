@@ -4,7 +4,7 @@ const CACHE_NAME = 'drone-quiz-v1';
 
 // オフラインでも動作させたいファイル一覧
 const ASSETS = [
-  './drone_quiz.html',
+  './index.html',
   './manifest.json',
   './icon-192.png',
   './icon-512.png',
