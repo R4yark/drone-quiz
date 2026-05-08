@@ -2,7 +2,7 @@
   "name": "ドローン操縦士 資格試験クイズ",
   "short_name": "ドローンクイズ",
   "description": "ドローン操縦士資格試験の対策クイズアプリ。全100問・苦手問題復習・挑戦履歴機能付き。",
-  "start_url": "./drone_quiz.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0a0e1a",
